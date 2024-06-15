@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993838107207",
+    "project_id": "talhaexpress3",
+    "storage_bucket": "talhaexpress3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993838107207:android:6c8050621e9960a2c6bf62",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRndJrtdbdUJs6hHXTeFxd_uKlxQWK1-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993838107207:android:67caa68ef356d689c6bf62",
+        "android_client_info": {
+          "package_name": "com.tlh.talhaexpress3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRndJrtdbdUJs6hHXTeFxd_uKlxQWK1-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
